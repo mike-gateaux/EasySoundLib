@@ -1,0 +1,11 @@
+{
+  "":"",
+  "name": "EasySound",
+  "tree": {
+    "$path": "src",
+    
+    "Packages": {
+      "$path": "Packages"
+    }
+  }
+}

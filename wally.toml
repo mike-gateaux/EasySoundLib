@@ -1,0 +1,9 @@
+[package]
+name = "gateaux/easysound"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Sift = "csqrl/sift@0.0.11"
+GoodSignal = "ddust1n/goodsignal@0.3.2"
